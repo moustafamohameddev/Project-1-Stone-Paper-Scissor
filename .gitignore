@@ -1,0 +1,19 @@
+# Visual Studio temporary files
+.vs/
+*.ipch
+*.user
+*.suo
+*.exe
+*.obj
+*.log
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.VC.db
+
